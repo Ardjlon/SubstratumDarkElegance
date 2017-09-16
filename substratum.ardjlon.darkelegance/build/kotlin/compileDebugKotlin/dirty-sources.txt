@@ -1,0 +1,4 @@
+C:\Users\carlo\AndroidStudioProjects\template\app\src\main\java\substratum\theme\template\ThemerConstants.kt
+C:\Users\carlo\AndroidStudioProjects\template\app\src\main\java\substratum\theme\template\internal\SystemInformation.kt
+C:\Users\carlo\AndroidStudioProjects\template\app\src\main\java\substratum\theme\template\internal\TBOConstants.kt
+C:\Users\carlo\AndroidStudioProjects\template\app\src\main\java\substratum\theme\template\SubstratumLauncher.kt

@@ -1,0 +1,92 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "160,228",
+                        "endColumns": "64,72",
+                        "endOffsets": "220,296"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,72",
+                        "endOffsets": "115,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "160,228",
+                        "endColumns": "64,72",
+                        "endOffsets": "220,296"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,72",
+                        "endOffsets": "115,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "160,228",
+                        "endColumns": "64,72",
+                        "endOffsets": "220,296"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,72",
+                        "endOffsets": "115,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "160,228",
+                        "endColumns": "64,72",
+                        "endOffsets": "220,296"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,72",
+                        "endOffsets": "115,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

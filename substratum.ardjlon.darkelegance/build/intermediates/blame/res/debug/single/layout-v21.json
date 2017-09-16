@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\layout-v21\\notification_action.xml"
+    }
+]

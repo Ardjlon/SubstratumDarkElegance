@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\template\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\Substratum Dark Elegance\\substratum.ardjlon.darkelegance\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.0.aar\\9ec0c0be7d6ed86f669deaffe64f6095\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
