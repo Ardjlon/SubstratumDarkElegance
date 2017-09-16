@@ -1,18 +1,18 @@
-package substratum.theme.template.internal
+package substratum.ardjlon.darkelegance.internal
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.content.pm.PackageManager
 import android.content.pm.Signature
-import substratum.theme.template.ThemerConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.ThemerConstants.ENABLE_BLACKLISTED_APPLICATIONS
-import substratum.theme.template.ThemerConstants.ENABLE_KNOWN_THIRD_PARTY_THEME_MANAGERS
-import substratum.theme.template.ThemerConstants.MINIMUM_SUBSTRATUM_VERSION
-import substratum.theme.template.ThemerConstants.OTHER_THEME_SYSTEMS
+import substratum.ardjlon.darkelegance.ThemerConstants.BLACKLISTED_APPLICATIONS
+import substratum.ardjlon.darkelegance.ThemerConstants.ENABLE_BLACKLISTED_APPLICATIONS
+import substratum.ardjlon.darkelegance.ThemerConstants.ENABLE_KNOWN_THIRD_PARTY_THEME_MANAGERS
+import substratum.ardjlon.darkelegance.ThemerConstants.MINIMUM_SUBSTRATUM_VERSION
+import substratum.ardjlon.darkelegance.ThemerConstants.OTHER_THEME_SYSTEMS
 
 object SystemInformation {
 
-    val SUBSTRATUM_PACKAGE_NAME = "projekt.substratum"
+    val SUBSTRATUM_PACKAGE_NAME = "substratum.ardjlon.darkelegance"
 
     fun checkNetworkConnection(): Boolean? {
         var isConnected = false

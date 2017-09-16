@@ -1,4 +1,4 @@
-package substratum.theme.template.internal
+package substratum.ardjlon.darkelegance.internal
 
 object TBOConstants {
 
