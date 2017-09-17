@@ -19,7 +19,7 @@ object ThemerConstants {
     internal val SUBSTRATUM_FILTER_CHECK = false
 
     // Miscellaneous Checks
-    val ENFORCE_MINIMUM_SUBSTRATUM_VERSION = true
+    val ENFORCE_MINIMUM_SUBSTRATUM_VERSION = false
     val MINIMUM_SUBSTRATUM_VERSION = 712 // 510 is the final MM build
     val ENABLE_KNOWN_THIRD_PARTY_THEME_MANAGERS = BuildConfig.SUPPORTS_THIRD_PARTY_THEME_SYSTEMS
     // Blacklisted APKs to prevent theme launching
